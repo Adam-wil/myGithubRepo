@@ -1,1 +1,1 @@
-myGitRepo
+new line myGitRepo
